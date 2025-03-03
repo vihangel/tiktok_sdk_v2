@@ -1,3 +1,5 @@
+# @format
+
 name: tiktok_sdk_v2
 description: A Flutter plugin that lets developers access TikTok's native SDKs in Flutter apps with Dart
 version: 0.0.2
@@ -12,7 +14,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  plugin_platform_interface: ^2.0.2
+  plugin_platform_interface: ^2.1.8
 
 dev_dependencies:
   flutter_test:
